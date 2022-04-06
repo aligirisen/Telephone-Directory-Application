@@ -1,0 +1,15 @@
+C:\Users\agiri\Documents\C# exercise\Telephone Directory Application\bin\Debug\net6.0\Telephone Directory Application.exe
+C:\Users\agiri\Documents\C# exercise\Telephone Directory Application\bin\Debug\net6.0\Telephone Directory Application.deps.json
+C:\Users\agiri\Documents\C# exercise\Telephone Directory Application\bin\Debug\net6.0\Telephone Directory Application.runtimeconfig.json
+C:\Users\agiri\Documents\C# exercise\Telephone Directory Application\bin\Debug\net6.0\Telephone Directory Application.dll
+C:\Users\agiri\Documents\C# exercise\Telephone Directory Application\bin\Debug\net6.0\Telephone Directory Application.pdb
+C:\Users\agiri\Documents\C# exercise\Telephone Directory Application\obj\Debug\net6.0\Telephone Directory Application.csproj.AssemblyReference.cache
+C:\Users\agiri\Documents\C# exercise\Telephone Directory Application\obj\Debug\net6.0\Telephone Directory Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agiri\Documents\C# exercise\Telephone Directory Application\obj\Debug\net6.0\Telephone Directory Application.AssemblyInfoInputs.cache
+C:\Users\agiri\Documents\C# exercise\Telephone Directory Application\obj\Debug\net6.0\Telephone Directory Application.AssemblyInfo.cs
+C:\Users\agiri\Documents\C# exercise\Telephone Directory Application\obj\Debug\net6.0\Telephone Directory Application.csproj.CoreCompileInputs.cache
+C:\Users\agiri\Documents\C# exercise\Telephone Directory Application\obj\Debug\net6.0\Telephone Directory Application.dll
+C:\Users\agiri\Documents\C# exercise\Telephone Directory Application\obj\Debug\net6.0\refint\Telephone Directory Application.dll
+C:\Users\agiri\Documents\C# exercise\Telephone Directory Application\obj\Debug\net6.0\Telephone Directory Application.pdb
+C:\Users\agiri\Documents\C# exercise\Telephone Directory Application\obj\Debug\net6.0\Telephone Directory Application.genruntimeconfig.cache
+C:\Users\agiri\Documents\C# exercise\Telephone Directory Application\obj\Debug\net6.0\ref\Telephone Directory Application.dll

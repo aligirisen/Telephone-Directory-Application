@@ -5,6 +5,7 @@ namespace Telephone_Directory_Application
         public string name;
         public string surname;
         public string number;
+        public string a;
 
         
 

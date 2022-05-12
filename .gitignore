@@ -1,2 +1,4 @@
 #ignored files
 obj/
+bin/
+.vscode/
